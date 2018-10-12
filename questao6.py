@@ -58,7 +58,7 @@ class BombaCombustivel:
         else:
             return False
 
-
+#comentario
 
 bomba1 = BombaCombustivel('alcool', 4.50)
 print(bomba1.get_tipo_combus())
